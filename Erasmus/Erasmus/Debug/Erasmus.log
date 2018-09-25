@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\iker_\onedrive\escritorio\eda\ejercicios\#1\erasmus\erasmus\source.cpp(17): warning C4244: '+=': conversión de 'double' a '__int64'; posible pérdida de datos
+c:\users\iker_\onedrive\escritorio\eda\ejercicios\#1\erasmus\erasmus\source.cpp(19): warning C4244: '=': conversión de 'double' a '__int64'; posible pérdida de datos
+  Erasmus.vcxproj -> C:\Users\iker_\OneDrive\Escritorio\EDA\Ejercicios\#1\Erasmus\Debug\Erasmus.exe
