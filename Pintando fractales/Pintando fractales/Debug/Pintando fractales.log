@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\iker_\onedrive\escritorio\eda\ejercicios\#5\pintando fractales\pintando fractales\source.cpp(13): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+c:\users\iker_\onedrive\escritorio\eda\ejercicios\#5\pintando fractales\pintando fractales\source.cpp(20): warning C4244: 'return': conversión de '__int64' a 'int'; posible pérdida de datos
+  Pintando fractales.vcxproj -> C:\Users\iker_\OneDrive\Escritorio\EDA\Ejercicios\#5\Pintando fractales\Debug\Pintando fractales.exe
